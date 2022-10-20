@@ -1,4 +1,6 @@
 tree
 plant
 stem
+Apple
+Phone
 root
