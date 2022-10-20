@@ -4,3 +4,6 @@ stem
 Apple
 Phone
 root
+leafs
+fruits
+
